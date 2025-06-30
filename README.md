@@ -1,10 +1,12 @@
 # Anatel Spectrum Integration
 
-Este projeto é responsável por baixar automaticamente os dados mais recentes da ANATEL (Planos Básicos de TV Digital), formatá-los e enviá-los para o Spectrum Board. O serviço roda continuamente em Docker e executa a integração a cada hora.
+Este projeto é responsável por baixar automaticamente os dados mais recentes da ANATEL (Planos Básicos de TV Digital), formatá-los e enviá-los para o Spectrum Board.
 
 - [ ] Adicionar conexão para fazer o get dos dados sempre que for gerar as áreas protegidas no spectrum board.
 
 ## Instalação e Uso
+
+-- Falta ajustar ainda os comandos --
 
 1. **Construir a imagem:**
    ```bash
